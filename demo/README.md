@@ -33,7 +33,7 @@ Mở phần mềm → sao chép **Device ID** (chuỗi 32 ký tự hiển thị 
 
 Gửi **Device ID** cho dev qua:
 
-- **Discord:** `[tên Discord của bạn]`
+- **Discord:** `[[Redeyes](https://discord.com/users/408132376389091338)]`
 
 Kèm theo gói bạn muốn mua (Standard / Pro / Elite). Dev sẽ cấp cho bạn **2 token**:
 
